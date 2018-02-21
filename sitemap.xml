@@ -3,9 +3,6 @@
 		<loc>https://localthing.io/comingsoon.html</loc>
 	</url>
 	<url>
-		<loc>https://localthing.io/start.html</loc>
-	</url>
-	<url>
 		<loc>https://localthing.io/beta.html</loc>
 	</url>
 	<url>
@@ -13,5 +10,8 @@
 	</url>
 	<url>
 		<loc>https://localthing.io/datenschutz.html</loc>
+	</url>
+	<url>
+		<loc>https://localthing.io/index.html</loc>
 	</url>
 </urlset>
