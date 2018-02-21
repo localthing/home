@@ -36,10 +36,10 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n\n",
     "robotsSwitcher": "on",
     "siteUrl": "https://localthing.io/",
-    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcherAuto": "",
     "favicon": "",
     "noImageResize": "",
     "cookiesAlert": "Diese Webseite verwendet Cookies, um dir ein angenehmeres Surfen zu ermöglichen. Mehr dazu findest du unter <a href='datenschutz.html'>Datenschutz</a>.",

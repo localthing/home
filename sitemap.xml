@@ -1,17 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://localthing.io/comingsoon.html</loc>
+		<loc>http://localthing.io/comingsoon.html</loc>
 	</url>
 	<url>
-		<loc>https://localthing.io/beta.html</loc>
+		<loc>http://localthing.io/beta.html</loc>
 	</url>
 	<url>
-		<loc>https://localthing.io/impressum.html</loc>
+		<loc>http://localthing.io/impressum.html</loc>
 	</url>
 	<url>
-		<loc>https://localthing.io/datenschutz.html</loc>
+		<loc>http://localthing.io/datenschutz.html</loc>
 	</url>
 	<url>
-		<loc>https://localthing.io/index.html</loc>
+		<loc>http://localthing.io/index.html</loc>
 	</url>
 </urlset>
+
