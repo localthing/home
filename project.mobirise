@@ -44,9 +44,9 @@
     "robotsSwitcher": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/localthing-logo-128x128-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ic-launcher-google-play-128x128-1.png",
     "noImageResize": "",
-    "cookiesAlert": "Wir verwenden Cookies, um dir ein angenehmeres Surfen zu ermöglichen. Mehr dazu findest du <a href='datenschutz.html'>hier</a>.",
+    "cookiesAlert": "Wir verwenden Cookies, um dir ein angenehmeres Surfen zu ermöglichen. Mehr dazu <a href='datenschutz.html'>hier</a>.",
     "google-analytics": ""
   },
   "pages": {
