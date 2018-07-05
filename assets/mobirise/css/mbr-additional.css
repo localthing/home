@@ -1682,86 +1682,81 @@ body {
 .cid-qVmuOC6cFI SPAN {
   color: #ffffff;
 }
-.cid-qVAGqTif6I {
-  padding-top: 45px;
+.cid-qWSfek1p4e {
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qVAGqTif6I .line {
-  background-color: #66cccc;
-  color: #66cccc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-qWSfek1p4e .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-qVAGqTif6I .section-text {
-  padding: 2rem 0;
+.cid-qWSfek1p4e H2 {
   color: #1f2530;
   text-align: center;
 }
-.cid-qVAGqTif6I .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qVAGqTif6I .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-qVrUJXhNZ2 {
-  padding-top: 30px;
+.cid-qWSlPtCzMk {
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-qVrUJXhNZ2 .card-img {
-  background-color: #fff;
+.cid-qWSlPtCzMk .mbr-text,
+.cid-qWSlPtCzMk blockquote {
+  color: #767676;
 }
-.cid-qVrUJXhNZ2 .card-box {
-  background-color: #efefef;
-  padding: 2rem;
+.cid-qWSlPtCzMk .mbr-text {
+  text-align: center;
+  color: #8f8e94;
 }
-.cid-qVrUJXhNZ2 h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
+.cid-qWSlPtCzMk .mbr-text B {
+  color: #8f8e94;
 }
-.cid-qVrUJXhNZ2 p {
-  text-align: left;
+.cid-qWS9VmsyHa {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-qVrUJXhNZ2 .mbr-text {
+.cid-qWS9VmsyHa .mbr-text {
   color: #1f2530;
+}
+.cid-qWS9VmsyHa h4 {
   text-align: center;
 }
-.cid-qVrUJXhNZ2 .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-qWS9VmsyHa p {
+  text-align: center;
 }
-.cid-qVrUJXhNZ2 .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-qWS9VmsyHa .card-img span {
+  font-size: 96px;
+  color: #149dcc;
 }
-@media (min-width: 992px) {
-  .cid-qVrUJXhNZ2 .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
+.cid-qWS9VmsyHa .card-title,
+.cid-qWS9VmsyHa .card-img {
+  color: #8f8e94;
+  text-align: center;
+}
+.cid-qWRZZHx4c8 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #1f2530;
+}
+.cid-qWRZZHx4c8 .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
+}
+.cid-qWRZZHx4c8 .input-group-btn {
+  justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-qWRZZHx4c8 .content-container {
+    padding-right: 5rem;
   }
 }
-.cid-qVrUJXhNZ2 .card-title {
-  color: #1f2530;
+.cid-qWRZZHx4c8 .mbr-text,
+.cid-qWRZZHx4c8 .mbr-section-btn {
   text-align: center;
 }
-.cid-qVrJTIdYtP {
-  padding-top: 30px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/localthing-app-nuernberg-2000x972.jpg");
-}
-.cid-qVrJTIdYtP .mbr-text,
-.cid-qVrJTIdYtP .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-qVrJTIdYtP H1 {
-  color: #ffffff;
+.cid-qWRZZHx4c8 H1 {
+  text-align: center;
 }
 .cid-qW0ATMfCLq {
   padding-top: 0px;
@@ -1798,38 +1793,8 @@ body {
 .cid-qW0ATMfCLq H4 {
   text-align: center;
 }
-.cid-qVrArXlTxF {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-qVrArXlTxF .title {
-  margin-bottom: 2rem;
-}
-.cid-qVrArXlTxF .mbr-section-subtitle {
-  color: #1f2530;
-}
-.cid-qVrArXlTxF a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qVrArXlTxF a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qVrArXlTxF .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qVrArXlTxF .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-qVrArXlTxF LABEL {
-  color: #8f8e94;
-}
 .cid-qVAJq24eJp {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #1f2530;
 }
@@ -2310,7 +2275,7 @@ body {
   color: #1f2530;
 }
 .cid-qVCczgEtFC {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #1f2530;
 }
@@ -2791,7 +2756,7 @@ body {
   color: #1f2530;
 }
 .cid-qVAJq24eJp {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #1f2530;
 }
@@ -3251,7 +3216,7 @@ body {
   width: 100%;
 }
 .cid-qVAJq24eJp {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #1f2530;
 }
