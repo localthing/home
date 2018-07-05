@@ -538,7 +538,7 @@
         },
         {
           "_params": {
-            "autoplay": true,
+            "autoplay": false,
             "animType": "carousel_basic",
             "theme": "easy",
             "slides": [
