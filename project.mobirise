@@ -42,7 +42,7 @@
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://localthing.io",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/ic-launcher-google-play-128x128-1.png",
     "noImageResize": "",
@@ -64,7 +64,8 @@
         "name": "Source Sans Pro",
         "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
       }
-    ]
+    ],
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -72,7 +73,7 @@
         "main": true,
         "title": "Localthing: entdecke deine Umgebung aus einem neuen Blickwinkel",
         "meta_descr": "Entdecke mit Localthing deine Umgebung aus einem neuen Blickwinkel und verpasse keine aktuellen Trends mehr aus deiner Region. Werde jetzt Teil unserer #localthingcommunity!",
-        "header_custom": "",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"UlLBfmFYZ0d3N0c0BiSSzd34PqX_zvZ1oWNDuUMSgkM\" />",
         "footer_custom": "",
         "html_before": ""
       },
