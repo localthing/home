@@ -73,7 +73,7 @@
         "main": true,
         "title": "Localthing: entdecke deine Umgebung aus einem neuen Blickwinkel",
         "meta_descr": "Entdecke mit Localthing deine Umgebung aus einem neuen Blickwinkel und verpasse keine aktuellen Trends mehr aus deiner Region. Werde jetzt Teil unserer #localthingcommunity!",
-        "header_custom": "<meta name=\"google-site-verification\" content=\"UlLBfmFYZ0d3N0c0BiSSzd34PqX_zvZ1oWNDuUMSgkM\" />\n\nStrict-Transport-Security: max-age=63072000; includeSubDomains; preload",
+        "header_custom": "<meta name=\"google-site-verification\" content=\"UlLBfmFYZ0d3N0c0BiSSzd34PqX_zvZ1oWNDuUMSgkM\" />",
         "footer_custom": "",
         "html_before": ""
       },
